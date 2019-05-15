@@ -1,0 +1,526 @@
+2019-05-14 22:29:55 | DEBUG | Base_Logging | conditional_write | Verified Style Element is present in the top wear page
+2019-05-14 22:29:56 | INFO | Base_Logging | log_result | PASS: Verified Style Element is present in the top wear page
+2019-05-14 22:29:56 | INFO | Base_Logging | ui_top_wear_page | Script duration: 20 seconds
+
+2019-05-14 22:30:06 | DEBUG | Base_Logging | conditional_write | Clicked on Style Element in top wear page
+2019-05-14 22:30:07 | INFO | Base_Logging | log_result | PASS: Clicked on Style Element in top wear page
+2019-05-14 22:30:07 | INFO | Base_Logging | ui_top_wear_page | Script duration: 31 seconds
+
+2019-05-14 22:30:08 | DEBUG | Base_Logging | conditional_write | Unable to find request that matches the condition
+2019-05-14 22:30:09 | INFO | Base_Logging | log_result | PASS: find the request made to the get_product_meta
+2019-05-14 22:30:09 | INFO | Base_Logging | ui_top_wear_page | Script duration: 33 seconds
+
+2019-05-14 22:30:09 | INFO | Base_Logging | log_result | PASS: find the request method made to the get_product_meta
+2019-05-14 22:30:09 | INFO | Base_Logging | ui_top_wear_page | Script duration: 33 seconds
+
+2019-05-14 22:30:09 | INFO | Base_Logging | log_result | PASS: find the request hdeader host to the get_product_meta
+2019-05-14 22:30:09 | INFO | Base_Logging | ui_top_wear_page | Script duration: 33 seconds
+
+2019-05-14 22:30:11 | DEBUG | Base_Logging | conditional_write | Unable to get product id on Style Element in top wear page
+2019-05-14 22:30:12 | DEBUG | Base_Logging | conditional_write | Unable to find client id in top wear page
+2019-05-14 22:30:15 | DEBUG | Base_Logging | conditional_write | Unable to find recommended names in top wear page - carousel
+2019-05-14 22:30:16 | INFO | Base_Logging | log_result | PASS: Verified the products names coming in the request are correctly populated in the carousel
+2019-05-14 22:30:16 | INFO | Base_Logging | ui_top_wear_page | Script duration: 40 seconds
+
+2019-05-14 22:30:16 | DEBUG | Base_Logging | conditional_write | Unable to find recommended prices in top wear page - carousel
+2019-05-14 22:30:17 | INFO | Base_Logging | log_result | PASS: Verified the products prices coming in the request are correctly populated in the carousel
+2019-05-14 22:30:17 | INFO | Base_Logging | ui_top_wear_page | Script duration: 41 seconds
+
+2019-05-14 22:30:17 | DEBUG | Base_Logging | conditional_write | Unable to find links in top wear page - carousel
+2019-05-14 22:30:17 | INFO | Base_Logging | log_result | PASS: Verified the products links coming in the request are correctly populated in the carousel
+2019-05-14 22:30:17 | INFO | Base_Logging | ui_top_wear_page | Script duration: 41 seconds
+
+2019-05-14 22:30:22 | DEBUG | Base_Logging | conditional_write | Found links in top wear page - carousel
+2019-05-14 22:30:25 | DEBUG | Base_Logging | conditional_write | Unable to find recommended names in top wear page - carousel
+2019-05-14 22:30:26 | INFO | Base_Logging | log_result | PASS: Verified the products Names coming in the request are correctly populated in the carousel
+2019-05-14 22:30:26 | INFO | Base_Logging | ui_top_wear_page | Script duration: 50 seconds
+
+2019-05-14 22:30:26 | DEBUG | Base_Logging | conditional_write | Unable to find recommended prices in top wear page - carousel
+2019-05-14 22:30:26 | INFO | Base_Logging | log_result | PASS: Verified the products prices coming in the request are correctly populated in the carousel
+2019-05-14 22:30:26 | INFO | Base_Logging | ui_top_wear_page | Script duration: 50 seconds
+
+2019-05-14 22:30:26 | DEBUG | Base_Logging | conditional_write | Unable to find links in top wear page - carousel
+2019-05-14 22:30:27 | INFO | Base_Logging | log_result | PASS: Verified the product's link coming in the request are correctly populated in the carousel
+2019-05-14 22:30:27 | INFO | Base_Logging | ui_top_wear_page | Script duration: 51 seconds
+
+2019-05-14 22:30:32 | DEBUG | Base_Logging | conditional_write | Clicked on productlinks in top wear page - carousel
+2019-05-14 22:30:32 | DEBUG | Base_Logging | conditional_write | Automation switched to the browser window: None
+2019-05-14 22:30:33 | INFO | Base_Logging | log_result | PASS: Verified after clicking on the recommended product populated in the carousel
+2019-05-14 22:30:33 | INFO | Base_Logging | ui_top_wear_page | Script duration: 57 seconds
+
+2019-05-14 22:30:35 | INFO | Base_Logging | write_test_summary | 
+
+************************
+--------RESULT--------
+Total number of checks=12
+2019-05-14 22:30:35 | INFO | Base_Logging | write_test_summary | Total number of checks passed=12
+----------------------
+************************
+
+
+2019-05-14 22:30:35 | INFO | Base_Logging | write_test_summary | Total number of mini-checks=14
+2019-05-14 22:30:35 | INFO | Base_Logging | write_test_summary | Total number of mini-checks passed=5
+2019-05-14 22:30:35 | INFO | Base_Logging | write_test_summary | ************************
+2019-05-14 22:35:28 | DEBUG | Base_Logging | conditional_write | Verified Style Element is present in the top wear page
+2019-05-14 22:35:29 | INFO | Base_Logging | log_result | PASS: Verified Style Element is present in the top wear page
+2019-05-14 22:35:29 | INFO | Base_Logging | ui_top_wear_page | Script duration: 21 seconds
+
+2019-05-14 22:35:38 | DEBUG | Base_Logging | conditional_write | Clicked on Style Element in top wear page
+2019-05-14 22:35:39 | INFO | Base_Logging | log_result | PASS: Clicked on Style Element in top wear page
+2019-05-14 22:35:39 | INFO | Base_Logging | ui_top_wear_page | Script duration: 31 seconds
+
+2019-05-14 22:35:40 | DEBUG | Base_Logging | conditional_write | Unable to find request that matches the condition
+2019-05-14 22:35:41 | INFO | Base_Logging | log_result | PASS: find the request made to the get_product_meta
+2019-05-14 22:35:41 | INFO | Base_Logging | ui_top_wear_page | Script duration: 33 seconds
+
+2019-05-14 22:35:41 | INFO | Base_Logging | log_result | PASS: find the request method made to the get_product_meta
+2019-05-14 22:35:41 | INFO | Base_Logging | ui_top_wear_page | Script duration: 33 seconds
+
+2019-05-14 22:35:41 | INFO | Base_Logging | log_result | PASS: find the request hdeader host to the get_product_meta
+2019-05-14 22:35:41 | INFO | Base_Logging | ui_top_wear_page | Script duration: 33 seconds
+
+2019-05-14 22:35:42 | DEBUG | Base_Logging | conditional_write | Unable to get product id on Style Element in top wear page
+2019-05-14 22:35:43 | DEBUG | Base_Logging | conditional_write | Unable to find client id in top wear page
+2019-05-14 22:35:47 | DEBUG | Base_Logging | conditional_write | Unable to find recommended names in top wear page - carousel
+2019-05-14 22:35:48 | INFO | Base_Logging | log_result | PASS: Verified the products names coming in the request are correctly populated in the carousel
+2019-05-14 22:35:48 | INFO | Base_Logging | ui_top_wear_page | Script duration: 40 seconds
+
+2019-05-14 22:35:48 | DEBUG | Base_Logging | conditional_write | Unable to find recommended prices in top wear page - carousel
+2019-05-14 22:35:49 | INFO | Base_Logging | log_result | PASS: Verified the products prices coming in the request are correctly populated in the carousel
+2019-05-14 22:35:49 | INFO | Base_Logging | ui_top_wear_page | Script duration: 41 seconds
+
+2019-05-14 22:35:49 | DEBUG | Base_Logging | conditional_write | Unable to find links in top wear page - carousel
+2019-05-14 22:35:50 | INFO | Base_Logging | log_result | PASS: Verified the products links coming in the request are correctly populated in the carousel
+2019-05-14 22:35:50 | INFO | Base_Logging | ui_top_wear_page | Script duration: 42 seconds
+
+2019-05-14 22:35:54 | DEBUG | Base_Logging | conditional_write | Found links in top wear page - carousel
+2019-05-14 22:35:57 | DEBUG | Base_Logging | conditional_write | Unable to find recommended names in top wear page - carousel
+2019-05-14 22:35:58 | INFO | Base_Logging | log_result | PASS: Verified the products Names coming in the request are correctly populated in the carousel
+2019-05-14 22:35:58 | INFO | Base_Logging | ui_top_wear_page | Script duration: 50 seconds
+
+2019-05-14 22:35:58 | DEBUG | Base_Logging | conditional_write | Unable to find recommended prices in top wear page - carousel
+2019-05-14 22:35:59 | INFO | Base_Logging | log_result | PASS: Verified the products prices coming in the request are correctly populated in the carousel
+2019-05-14 22:35:59 | INFO | Base_Logging | ui_top_wear_page | Script duration: 51 seconds
+
+2019-05-14 22:35:59 | DEBUG | Base_Logging | conditional_write | Unable to find links in top wear page - carousel
+2019-05-14 22:36:00 | INFO | Base_Logging | log_result | PASS: Verified the product's link coming in the request are correctly populated in the carousel
+2019-05-14 22:36:00 | INFO | Base_Logging | ui_top_wear_page | Script duration: 52 seconds
+
+2019-05-14 22:36:04 | DEBUG | Base_Logging | conditional_write | Clicked on productlinks in top wear page - carousel
+2019-05-14 22:36:05 | DEBUG | Base_Logging | conditional_write | Automation switched to the browser window: None
+2019-05-14 22:36:05 | INFO | Base_Logging | log_result | PASS: Verified after clicking on the recommended product populated in the carousel
+2019-05-14 22:36:05 | INFO | Base_Logging | ui_top_wear_page | Script duration: 57 seconds
+
+2019-05-14 22:36:06 | INFO | Base_Logging | write_test_summary | 
+
+************************
+--------RESULT--------
+Total number of checks=12
+2019-05-14 22:36:06 | INFO | Base_Logging | write_test_summary | Total number of checks passed=12
+----------------------
+************************
+
+
+2019-05-14 22:36:06 | INFO | Base_Logging | write_test_summary | Total number of mini-checks=14
+2019-05-14 22:36:06 | INFO | Base_Logging | write_test_summary | Total number of mini-checks passed=5
+2019-05-14 22:36:06 | INFO | Base_Logging | write_test_summary | ************************
+2019-05-14 22:38:55 | DEBUG | Base_Logging | conditional_write | Verified Style Element is present in the top wear page
+2019-05-14 22:38:55 | INFO | Base_Logging | log_result | PASS: Verified Style Element is present in the top wear page
+2019-05-14 22:38:55 | INFO | Base_Logging | ui_top_wear_page | Script duration: 18 seconds
+
+2019-05-14 22:39:05 | DEBUG | Base_Logging | conditional_write | Clicked on Style Element in top wear page
+2019-05-14 22:39:06 | INFO | Base_Logging | log_result | PASS: Clicked on Style Element in top wear page
+2019-05-14 22:39:06 | INFO | Base_Logging | ui_top_wear_page | Script duration: 29 seconds
+
+2019-05-14 22:39:07 | DEBUG | Base_Logging | conditional_write | Unable to find request that matches the condition
+2019-05-14 22:39:08 | INFO | Base_Logging | log_result | PASS: find the request made to the get_product_meta
+2019-05-14 22:39:08 | INFO | Base_Logging | ui_top_wear_page | Script duration: 31 seconds
+
+2019-05-14 22:39:08 | INFO | Base_Logging | log_result | PASS: find the request method made to the get_product_meta
+2019-05-14 22:39:08 | INFO | Base_Logging | ui_top_wear_page | Script duration: 31 seconds
+
+2019-05-14 22:39:08 | INFO | Base_Logging | log_result | PASS: find the request hdeader host to the get_product_meta
+2019-05-14 22:39:08 | INFO | Base_Logging | ui_top_wear_page | Script duration: 31 seconds
+
+2019-05-14 22:39:10 | DEBUG | Base_Logging | conditional_write | Unable to get product id on Style Element in top wear page
+2019-05-14 22:39:11 | DEBUG | Base_Logging | conditional_write | Unable to find client id in top wear page
+2019-05-14 22:39:15 | DEBUG | Base_Logging | conditional_write | Unable to find recommended names in top wear page - carousel
+2019-05-14 22:39:15 | INFO | Base_Logging | log_result | PASS: Verified the products names coming in the request are correctly populated in the carousel
+2019-05-14 22:39:15 | INFO | Base_Logging | ui_top_wear_page | Script duration: 38 seconds
+
+2019-05-14 22:39:15 | DEBUG | Base_Logging | conditional_write | Unable to find recommended prices in top wear page - carousel
+2019-05-14 22:39:16 | INFO | Base_Logging | log_result | PASS: Verified the products prices coming in the request are correctly populated in the carousel
+2019-05-14 22:39:16 | INFO | Base_Logging | ui_top_wear_page | Script duration: 39 seconds
+
+2019-05-14 22:39:16 | DEBUG | Base_Logging | conditional_write | Unable to find links in top wear page - carousel
+2019-05-14 22:39:17 | INFO | Base_Logging | log_result | PASS: Verified the products links coming in the request are correctly populated in the carousel
+2019-05-14 22:39:17 | INFO | Base_Logging | ui_top_wear_page | Script duration: 40 seconds
+
+2019-05-14 22:39:21 | DEBUG | Base_Logging | conditional_write | Found links in top wear page - carousel
+2019-05-14 22:39:25 | DEBUG | Base_Logging | conditional_write | Unable to find recommended names in top wear page - carousel
+2019-05-14 22:39:26 | INFO | Base_Logging | log_result | PASS: Verified the products Names coming in the request are correctly populated in the carousel
+2019-05-14 22:39:26 | INFO | Base_Logging | ui_top_wear_page | Script duration: 49 seconds
+
+2019-05-14 22:39:26 | DEBUG | Base_Logging | conditional_write | Unable to find recommended prices in top wear page - carousel
+2019-05-14 22:39:26 | INFO | Base_Logging | log_result | PASS: Verified the products prices coming in the request are correctly populated in the carousel
+2019-05-14 22:39:26 | INFO | Base_Logging | ui_top_wear_page | Script duration: 49 seconds
+
+2019-05-14 22:39:26 | DEBUG | Base_Logging | conditional_write | Unable to find links in top wear page - carousel
+2019-05-14 22:39:27 | INFO | Base_Logging | log_result | PASS: Verified the product's link coming in the request are correctly populated in the carousel
+2019-05-14 22:39:27 | INFO | Base_Logging | ui_top_wear_page | Script duration: 50 seconds
+
+2019-05-14 22:39:31 | DEBUG | Base_Logging | conditional_write | Clicked on productlinks in top wear page - carousel
+2019-05-14 22:39:32 | DEBUG | Base_Logging | conditional_write | Automation switched to the browser window: None
+2019-05-14 22:39:33 | INFO | Base_Logging | log_result | PASS: Verified after clicking on the recommended product populated in the carousel
+2019-05-14 22:39:33 | INFO | Base_Logging | ui_top_wear_page | Script duration: 56 seconds
+
+2019-05-14 22:39:35 | INFO | Base_Logging | write_test_summary | 
+
+************************
+--------RESULT--------
+Total number of checks=12
+2019-05-14 22:39:35 | INFO | Base_Logging | write_test_summary | Total number of checks passed=12
+----------------------
+************************
+
+
+2019-05-14 22:39:35 | INFO | Base_Logging | write_test_summary | Total number of mini-checks=14
+2019-05-14 22:39:35 | INFO | Base_Logging | write_test_summary | Total number of mini-checks passed=5
+2019-05-14 22:39:35 | INFO | Base_Logging | write_test_summary | ************************
+2019-05-14 22:44:16 | DEBUG | Base_Logging | conditional_write | Verified Style Element is present in the top wear page
+2019-05-14 22:44:17 | INFO | Base_Logging | log_result | PASS: Verified Style Element is present in the top wear page
+2019-05-14 22:44:17 | INFO | Base_Logging | ui_top_wear_page | Script duration: 20 seconds
+
+2019-05-14 22:44:26 | DEBUG | Base_Logging | conditional_write | Clicked on Style Element in top wear page
+2019-05-14 22:44:27 | INFO | Base_Logging | log_result | PASS: Clicked on Style Element in top wear page
+2019-05-14 22:44:27 | INFO | Base_Logging | ui_top_wear_page | Script duration: 30 seconds
+
+2019-05-14 22:44:29 | DEBUG | Base_Logging | conditional_write | Unable to find request that matches the condition
+2019-05-14 22:44:29 | INFO | Base_Logging | log_result | PASS: find the request made to the get_product_meta
+2019-05-14 22:44:29 | INFO | Base_Logging | ui_top_wear_page | Script duration: 32 seconds
+
+2019-05-14 22:44:29 | INFO | Base_Logging | log_result | PASS: find the request method made to the get_product_meta
+2019-05-14 22:44:29 | INFO | Base_Logging | ui_top_wear_page | Script duration: 32 seconds
+
+2019-05-14 22:44:29 | INFO | Base_Logging | log_result | PASS: find the request hdeader host to the get_product_meta
+2019-05-14 22:44:29 | INFO | Base_Logging | ui_top_wear_page | Script duration: 32 seconds
+
+2019-05-14 22:44:31 | DEBUG | Base_Logging | conditional_write | Unable to get product id on Style Element in top wear page
+2019-05-14 22:44:32 | DEBUG | Base_Logging | conditional_write | Unable to find client id in top wear page
+2019-05-14 22:44:36 | DEBUG | Base_Logging | conditional_write | Unable to find recommended names in top wear page - carousel
+2019-05-14 22:44:36 | INFO | Base_Logging | log_result | PASS: Verified the products names coming in the request are correctly populated in the carousel
+2019-05-14 22:44:36 | INFO | Base_Logging | ui_top_wear_page | Script duration: 39 seconds
+
+2019-05-14 22:44:37 | DEBUG | Base_Logging | conditional_write | Unable to find recommended prices in top wear page - carousel
+2019-05-14 22:44:37 | INFO | Base_Logging | log_result | PASS: Verified the products prices coming in the request are correctly populated in the carousel
+2019-05-14 22:44:37 | INFO | Base_Logging | ui_top_wear_page | Script duration: 40 seconds
+
+2019-05-14 22:44:37 | DEBUG | Base_Logging | conditional_write | Unable to find links in top wear page - carousel
+2019-05-14 22:44:38 | INFO | Base_Logging | log_result | PASS: Verified the products links coming in the request are correctly populated in the carousel
+2019-05-14 22:44:38 | INFO | Base_Logging | ui_top_wear_page | Script duration: 41 seconds
+
+2019-05-14 22:44:43 | DEBUG | Base_Logging | conditional_write | Found links in top wear page - carousel
+2019-05-14 22:44:46 | DEBUG | Base_Logging | conditional_write | Unable to find recommended names in top wear page - carousel
+2019-05-14 22:44:47 | INFO | Base_Logging | log_result | PASS: Verified the products Names coming in the request are correctly populated in the carousel
+2019-05-14 22:44:47 | INFO | Base_Logging | ui_top_wear_page | Script duration: 50 seconds
+
+2019-05-14 22:44:47 | DEBUG | Base_Logging | conditional_write | Unable to find recommended prices in top wear page - carousel
+2019-05-14 22:44:47 | INFO | Base_Logging | log_result | PASS: Verified the products prices coming in the request are correctly populated in the carousel
+2019-05-14 22:44:47 | INFO | Base_Logging | ui_top_wear_page | Script duration: 50 seconds
+
+2019-05-14 22:44:47 | DEBUG | Base_Logging | conditional_write | Unable to find links in top wear page - carousel
+2019-05-14 22:44:48 | INFO | Base_Logging | log_result | PASS: Verified the product's link coming in the request are correctly populated in the carousel
+2019-05-14 22:44:48 | INFO | Base_Logging | ui_top_wear_page | Script duration: 51 seconds
+
+2019-05-14 22:44:52 | DEBUG | Base_Logging | conditional_write | Clicked on productlinks in top wear page - carousel
+2019-05-14 22:44:53 | DEBUG | Base_Logging | conditional_write | Automation switched to the browser window: None
+2019-05-14 22:44:55 | INFO | Base_Logging | log_result | PASS: Verified after clicking on the recommended product populated in the carousel
+2019-05-14 22:44:55 | INFO | Base_Logging | ui_top_wear_page | Script duration: 58 seconds
+
+2019-05-14 22:44:56 | INFO | Base_Logging | write_test_summary | 
+
+************************
+--------RESULT--------
+Total number of checks=12
+2019-05-14 22:44:56 | INFO | Base_Logging | write_test_summary | Total number of checks passed=12
+----------------------
+************************
+
+
+2019-05-14 22:44:56 | INFO | Base_Logging | write_test_summary | Total number of mini-checks=14
+2019-05-14 22:44:56 | INFO | Base_Logging | write_test_summary | Total number of mini-checks passed=5
+2019-05-14 22:44:56 | INFO | Base_Logging | write_test_summary | ************************
+2019-05-14 22:46:05 | DEBUG | Base_Logging | conditional_write | Verified Style Element is present in the top wear page
+2019-05-14 22:46:06 | INFO | Base_Logging | log_result | PASS: Verified Style Element is present in the top wear page
+2019-05-14 22:46:06 | INFO | Base_Logging | ui_top_wear_page | Script duration: 19 seconds
+
+2019-05-14 22:46:15 | DEBUG | Base_Logging | conditional_write | Clicked on Style Element in top wear page
+2019-05-14 22:46:16 | INFO | Base_Logging | log_result | PASS: Clicked on Style Element in top wear page
+2019-05-14 22:46:16 | INFO | Base_Logging | ui_top_wear_page | Script duration: 29 seconds
+
+2019-05-14 22:46:17 | DEBUG | Base_Logging | conditional_write | Unable to find request that matches the condition
+2019-05-14 22:46:18 | INFO | Base_Logging | log_result | PASS: find the request made to the get_product_meta
+2019-05-14 22:46:18 | INFO | Base_Logging | ui_top_wear_page | Script duration: 31 seconds
+
+2019-05-14 22:46:18 | INFO | Base_Logging | log_result | PASS: find the request method made to the get_product_meta
+2019-05-14 22:46:18 | INFO | Base_Logging | ui_top_wear_page | Script duration: 31 seconds
+
+2019-05-14 22:46:18 | INFO | Base_Logging | log_result | PASS: find the request hdeader host to the get_product_meta
+2019-05-14 22:46:18 | INFO | Base_Logging | ui_top_wear_page | Script duration: 31 seconds
+
+2019-05-14 22:46:19 | DEBUG | Base_Logging | conditional_write | Unable to get product id on Style Element in top wear page
+2019-05-14 22:46:20 | DEBUG | Base_Logging | conditional_write | Unable to find client id in top wear page
+2019-05-14 22:46:24 | DEBUG | Base_Logging | conditional_write | Unable to find recommended names in top wear page - carousel
+2019-05-14 22:46:25 | INFO | Base_Logging | log_result | PASS: Verified the products names coming in the request are correctly populated in the carousel
+2019-05-14 22:46:25 | INFO | Base_Logging | ui_top_wear_page | Script duration: 38 seconds
+
+2019-05-14 22:46:25 | DEBUG | Base_Logging | conditional_write | Unable to find recommended prices in top wear page - carousel
+2019-05-14 22:46:25 | INFO | Base_Logging | log_result | PASS: Verified the products prices coming in the request are correctly populated in the carousel
+2019-05-14 22:46:25 | INFO | Base_Logging | ui_top_wear_page | Script duration: 38 seconds
+
+2019-05-14 22:46:25 | DEBUG | Base_Logging | conditional_write | Unable to find links in top wear page - carousel
+2019-05-14 22:46:26 | INFO | Base_Logging | log_result | PASS: Verified the products links coming in the request are correctly populated in the carousel
+2019-05-14 22:46:26 | INFO | Base_Logging | ui_top_wear_page | Script duration: 39 seconds
+
+2019-05-14 22:46:31 | DEBUG | Base_Logging | conditional_write | Found links in top wear page - carousel
+2019-05-14 22:46:34 | DEBUG | Base_Logging | conditional_write | Unable to find recommended names in top wear page - carousel
+2019-05-14 22:46:34 | INFO | Base_Logging | log_result | PASS: Verified the products Names coming in the request are correctly populated in the carousel
+2019-05-14 22:46:34 | INFO | Base_Logging | ui_top_wear_page | Script duration: 47 seconds
+
+2019-05-14 22:46:34 | DEBUG | Base_Logging | conditional_write | Unable to find recommended prices in top wear page - carousel
+2019-05-14 22:46:35 | INFO | Base_Logging | log_result | PASS: Verified the products prices coming in the request are correctly populated in the carousel
+2019-05-14 22:46:35 | INFO | Base_Logging | ui_top_wear_page | Script duration: 48 seconds
+
+2019-05-14 22:46:35 | DEBUG | Base_Logging | conditional_write | Unable to find links in top wear page - carousel
+2019-05-14 22:46:36 | INFO | Base_Logging | log_result | PASS: Verified the product's link coming in the request are correctly populated in the carousel
+2019-05-14 22:46:36 | INFO | Base_Logging | ui_top_wear_page | Script duration: 49 seconds
+
+2019-05-14 22:46:40 | DEBUG | Base_Logging | conditional_write | Clicked on productlinks in top wear page - carousel
+2019-05-14 22:46:41 | DEBUG | Base_Logging | conditional_write | Automation switched to the browser window: None
+2019-05-14 22:46:43 | INFO | Base_Logging | log_result | PASS: Verified after clicking on the recommended product populated in the carousel
+2019-05-14 22:46:43 | INFO | Base_Logging | ui_top_wear_page | Script duration: 56 seconds
+
+2019-05-14 22:46:44 | INFO | Base_Logging | write_test_summary | 
+
+************************
+--------RESULT--------
+Total number of checks=12
+2019-05-14 22:46:44 | INFO | Base_Logging | write_test_summary | Total number of checks passed=12
+----------------------
+************************
+
+
+2019-05-14 22:46:44 | INFO | Base_Logging | write_test_summary | Total number of mini-checks=14
+2019-05-14 22:46:44 | INFO | Base_Logging | write_test_summary | Total number of mini-checks passed=5
+2019-05-14 22:46:44 | INFO | Base_Logging | write_test_summary | ************************
+2019-05-14 22:54:11 | DEBUG | Base_Logging | conditional_write | Verified Style Element is present in the top wear page
+2019-05-14 22:54:12 | INFO | Base_Logging | log_result | PASS: Verified Style Element is present in the top wear page
+2019-05-14 22:54:12 | INFO | Base_Logging | ui_top_wear_page | Script duration: 19 seconds
+
+2019-05-14 22:54:22 | DEBUG | Base_Logging | conditional_write | Clicked on Style Element in top wear page
+2019-05-14 22:54:23 | INFO | Base_Logging | log_result | PASS: Clicked on Style Element in top wear page
+2019-05-14 22:54:23 | INFO | Base_Logging | ui_top_wear_page | Script duration: 30 seconds
+
+2019-05-14 22:54:24 | DEBUG | Base_Logging | conditional_write | Unable to find request that matches the condition
+2019-05-14 22:54:25 | INFO | Base_Logging | log_result | PASS: find the request made to the get_product_meta
+2019-05-14 22:54:25 | INFO | Base_Logging | ui_top_wear_page | Script duration: 32 seconds
+
+2019-05-14 22:54:25 | INFO | Base_Logging | log_result | PASS: find the request method made to the get_product_meta
+2019-05-14 22:54:25 | INFO | Base_Logging | ui_top_wear_page | Script duration: 32 seconds
+
+2019-05-14 22:54:25 | INFO | Base_Logging | log_result | PASS: find the request hdeader host to the get_product_meta
+2019-05-14 22:54:25 | INFO | Base_Logging | ui_top_wear_page | Script duration: 32 seconds
+
+2019-05-14 22:54:27 | DEBUG | Base_Logging | conditional_write | Unable to get product id on Style Element in top wear page
+2019-05-14 22:54:27 | DEBUG | Base_Logging | conditional_write | Unable to find client id in top wear page
+2019-05-14 22:54:31 | DEBUG | Base_Logging | conditional_write | Unable to find recommended names in top wear page - carousel
+2019-05-14 22:54:32 | INFO | Base_Logging | log_result | PASS: Verified the products names coming in the request are correctly populated in the carousel
+2019-05-14 22:54:32 | INFO | Base_Logging | ui_top_wear_page | Script duration: 39 seconds
+
+2019-05-14 22:54:32 | DEBUG | Base_Logging | conditional_write | Unable to find recommended prices in top wear page - carousel
+2019-05-14 22:54:32 | INFO | Base_Logging | log_result | PASS: Verified the products prices coming in the request are correctly populated in the carousel
+2019-05-14 22:54:32 | INFO | Base_Logging | ui_top_wear_page | Script duration: 39 seconds
+
+2019-05-14 22:54:32 | DEBUG | Base_Logging | conditional_write | Unable to find links in top wear page - carousel
+2019-05-14 22:54:33 | INFO | Base_Logging | log_result | PASS: Verified the products links coming in the request are correctly populated in the carousel
+2019-05-14 22:54:33 | INFO | Base_Logging | ui_top_wear_page | Script duration: 40 seconds
+
+2019-05-14 22:54:38 | DEBUG | Base_Logging | conditional_write | Found links in top wear page - carousel
+2019-05-14 22:54:41 | DEBUG | Base_Logging | conditional_write | Unable to find recommended names in top wear page - carousel
+2019-05-14 22:54:41 | INFO | Base_Logging | log_result | PASS: Verified the products Names coming in the request are correctly populated in the carousel
+2019-05-14 22:54:41 | INFO | Base_Logging | ui_top_wear_page | Script duration: 48 seconds
+
+2019-05-14 22:54:41 | DEBUG | Base_Logging | conditional_write | Unable to find recommended prices in top wear page - carousel
+2019-05-14 22:54:42 | INFO | Base_Logging | log_result | PASS: Verified the products prices coming in the request are correctly populated in the carousel
+2019-05-14 22:54:42 | INFO | Base_Logging | ui_top_wear_page | Script duration: 49 seconds
+
+2019-05-14 22:54:42 | DEBUG | Base_Logging | conditional_write | Unable to find links in top wear page - carousel
+2019-05-14 22:54:42 | INFO | Base_Logging | log_result | PASS: Verified the product's link coming in the request are correctly populated in the carousel
+2019-05-14 22:54:42 | INFO | Base_Logging | ui_top_wear_page | Script duration: 49 seconds
+
+2019-05-14 22:54:47 | DEBUG | Base_Logging | conditional_write | Clicked on productlinks in top wear page - carousel
+2019-05-14 22:54:47 | DEBUG | Base_Logging | conditional_write | Automation switched to the browser window: None
+2019-05-14 22:54:48 | INFO | Base_Logging | log_result | PASS: Verified after clicking on the recommended product populated in the carousel
+2019-05-14 22:54:48 | INFO | Base_Logging | ui_top_wear_page | Script duration: 55 seconds
+
+2019-05-14 22:54:49 | INFO | Base_Logging | write_test_summary | 
+
+************************
+--------RESULT--------
+Total number of checks=12
+2019-05-14 22:54:49 | INFO | Base_Logging | write_test_summary | Total number of checks passed=12
+----------------------
+************************
+
+
+2019-05-14 22:54:49 | INFO | Base_Logging | write_test_summary | Total number of mini-checks=14
+2019-05-14 22:54:49 | INFO | Base_Logging | write_test_summary | Total number of mini-checks passed=5
+2019-05-14 22:54:49 | INFO | Base_Logging | write_test_summary | ************************
+2019-05-14 23:20:23 | INFO | Base_Logging | conditional_write | Could not locate the element xpath,//div[@data-msd-module-id]/img even after 15.0 seconds
+2019-05-14 23:20:28 | DEBUG | Base_Logging | conditional_write | Style Element is NOT present in the top wear page
+2019-05-14 23:20:28 | INFO | Base_Logging | log_result | FAIL: Failed - Style Element is NOT present in the top wear page 
+On url: https://madstreetden.myshopify.com/collections/top-wear
+
+2019-05-14 23:20:28 | INFO | Base_Logging | ui_top_wear_page | Script duration: 27 seconds
+
+2019-05-14 23:20:35 | INFO | Base_Logging | conditional_write | Could not locate the element xpath,//div[@data-msd-module-id]/img even after 5.0 seconds
+2019-05-14 23:20:44 | DEBUG | Base_Logging | conditional_write | Unable to click on Style Element in top wear page
+2019-05-14 23:21:16 | INFO | Base_Logging | conditional_write | Could not locate the element xpath,//div[@data-msd-module-id]/img even after 15.0 seconds
+2019-05-14 23:21:16 | DEBUG | Base_Logging | conditional_write | Style Element is NOT present in the top wear page
+2019-05-14 23:22:35 | INFO | Base_Logging | conditional_write | Could not locate the element xpath,//div[@data-msd-module-id]/img even after 15.0 seconds
+2019-05-14 23:22:40 | DEBUG | Base_Logging | conditional_write | Style Element is NOT present in the top wear page
+2019-05-14 23:22:41 | INFO | Base_Logging | log_result | FAIL: Failed - Style Element is NOT present in the top wear page 
+On url: https://madstreetden.myshopify.com/collections/top-wear
+
+2019-05-14 23:22:41 | INFO | Base_Logging | ui_top_wear_page | Script duration: 27 seconds
+
+2019-05-14 23:22:47 | INFO | Base_Logging | conditional_write | Could not locate the element xpath,//div[@data-msd-module-id]/img even after 5.0 seconds
+2019-05-14 23:22:54 | DEBUG | Base_Logging | get_element | Remote end closed connection without response
+2019-05-14 23:22:54 | INFO | Base_Logging | get_element | Check your locator-'xpath,//div[@data-msd-module-id]/img' in the conf/locators.conf file
+2019-05-14 23:22:54 | DEBUG | Base_Logging | conditional_write | Unable to click on Style Element in top wear page
+2019-05-14 23:32:22 | DEBUG | Base_Logging | conditional_write | Verified Style Element is present in the top wear page
+2019-05-14 23:32:22 | INFO | Base_Logging | log_result | PASS: Verified Style Element is present in the top wear page
+2019-05-14 23:32:22 | INFO | Base_Logging | ui_top_wear_page | Script duration: 18 seconds
+
+2019-05-14 23:32:32 | DEBUG | Base_Logging | conditional_write | Clicked on Style Element in top wear page
+2019-05-14 23:32:32 | INFO | Base_Logging | log_result | PASS: Clicked on Style Element in top wear page
+2019-05-14 23:32:32 | INFO | Base_Logging | ui_top_wear_page | Script duration: 28 seconds
+
+2019-05-14 23:32:34 | DEBUG | Base_Logging | conditional_write | Unable to find request that matches the condition
+2019-05-14 23:32:34 | INFO | Base_Logging | log_result | PASS: find the request made to the get_product_meta
+2019-05-14 23:32:34 | INFO | Base_Logging | ui_top_wear_page | Script duration: 30 seconds
+
+2019-05-14 23:32:34 | INFO | Base_Logging | log_result | PASS: find the request method made to the get_product_meta
+2019-05-14 23:32:34 | INFO | Base_Logging | ui_top_wear_page | Script duration: 30 seconds
+
+2019-05-14 23:32:34 | INFO | Base_Logging | log_result | PASS: find the request hdeader host to the get_product_meta
+2019-05-14 23:32:34 | INFO | Base_Logging | ui_top_wear_page | Script duration: 30 seconds
+
+2019-05-14 23:32:36 | DEBUG | Base_Logging | conditional_write | Unable to get product id on Style Element in top wear page
+2019-05-14 23:32:37 | DEBUG | Base_Logging | conditional_write | Unable to find client id in top wear page
+2019-05-14 23:32:40 | DEBUG | Base_Logging | conditional_write | Unable to find recommended names in top wear page - carousel
+2019-05-14 23:32:41 | INFO | Base_Logging | log_result | PASS: Verified the products names coming in the request are correctly populated in the carousel
+2019-05-14 23:32:41 | INFO | Base_Logging | ui_top_wear_page | Script duration: 37 seconds
+
+2019-05-14 23:32:41 | DEBUG | Base_Logging | conditional_write | Unable to find recommended prices in top wear page - carousel
+2019-05-14 23:32:42 | INFO | Base_Logging | log_result | PASS: Verified the products prices coming in the request are correctly populated in the carousel
+2019-05-14 23:32:42 | INFO | Base_Logging | ui_top_wear_page | Script duration: 38 seconds
+
+2019-05-14 23:32:42 | DEBUG | Base_Logging | conditional_write | Unable to find links in top wear page - carousel
+2019-05-14 23:32:42 | INFO | Base_Logging | log_result | PASS: Verified the products links coming in the request are correctly populated in the carousel
+2019-05-14 23:32:42 | INFO | Base_Logging | ui_top_wear_page | Script duration: 38 seconds
+
+2019-05-14 23:32:47 | DEBUG | Base_Logging | conditional_write | Found links in top wear page - carousel
+2019-05-14 23:32:50 | DEBUG | Base_Logging | conditional_write | Unable to find recommended names in top wear page - carousel
+2019-05-14 23:32:50 | INFO | Base_Logging | log_result | PASS: Verified the products Names coming in the request are correctly populated in the carousel
+2019-05-14 23:32:50 | INFO | Base_Logging | ui_top_wear_page | Script duration: 46 seconds
+
+2019-05-14 23:32:50 | DEBUG | Base_Logging | conditional_write | Unable to find recommended prices in top wear page - carousel
+2019-05-14 23:32:51 | INFO | Base_Logging | log_result | PASS: Verified the products prices coming in the request are correctly populated in the carousel
+2019-05-14 23:32:51 | INFO | Base_Logging | ui_top_wear_page | Script duration: 47 seconds
+
+2019-05-14 23:32:51 | DEBUG | Base_Logging | conditional_write | Unable to find links in top wear page - carousel
+2019-05-14 23:32:51 | INFO | Base_Logging | log_result | PASS: Verified the product's link coming in the request are correctly populated in the carousel
+2019-05-14 23:32:51 | INFO | Base_Logging | ui_top_wear_page | Script duration: 47 seconds
+
+2019-05-14 23:32:56 | DEBUG | Base_Logging | conditional_write | Clicked on productlinks in top wear page - carousel
+2019-05-14 23:32:57 | DEBUG | Base_Logging | conditional_write | Automation switched to the browser window: None
+2019-05-14 23:32:59 | INFO | Base_Logging | log_result | PASS: Verified after clicking on the recommended product populated in the carousel
+2019-05-14 23:32:59 | INFO | Base_Logging | ui_top_wear_page | Script duration: 55 seconds
+
+2019-05-14 23:33:00 | INFO | Base_Logging | write_test_summary | 
+
+************************
+--------RESULT--------
+Total number of checks=12
+2019-05-14 23:33:00 | INFO | Base_Logging | write_test_summary | Total number of checks passed=12
+----------------------
+************************
+
+
+2019-05-14 23:33:00 | INFO | Base_Logging | write_test_summary | Total number of mini-checks=14
+2019-05-14 23:33:00 | INFO | Base_Logging | write_test_summary | Total number of mini-checks passed=5
+2019-05-14 23:33:00 | INFO | Base_Logging | write_test_summary | ************************
+2019-05-14 23:41:07 | DEBUG | Base_Logging | conditional_write | Verified Style Element is present in the top wear page
+2019-05-14 23:41:08 | INFO | Base_Logging | log_result | PASS: Verified Style Element is present in the top wear page
+2019-05-14 23:41:08 | INFO | Base_Logging | ui_top_wear_page | Script duration: 21 seconds
+
+2019-05-14 23:41:19 | DEBUG | Base_Logging | conditional_write | Clicked on Style Element in top wear page
+2019-05-14 23:41:20 | INFO | Base_Logging | log_result | PASS: Clicked on Style Element in top wear page
+2019-05-14 23:41:20 | INFO | Base_Logging | ui_top_wear_page | Script duration: 33 seconds
+
+2019-05-14 23:41:21 | DEBUG | Base_Logging | conditional_write | Unable to find request that matches the condition
+2019-05-14 23:41:21 | INFO | Base_Logging | log_result | PASS: find the request made to the get_product_meta
+2019-05-14 23:41:21 | INFO | Base_Logging | ui_top_wear_page | Script duration: 34 seconds
+
+2019-05-14 23:41:21 | INFO | Base_Logging | log_result | PASS: find the request method made to the get_product_meta
+2019-05-14 23:41:21 | INFO | Base_Logging | ui_top_wear_page | Script duration: 34 seconds
+
+2019-05-14 23:41:21 | INFO | Base_Logging | log_result | PASS: find the request hdeader host to the get_product_meta
+2019-05-14 23:41:21 | INFO | Base_Logging | ui_top_wear_page | Script duration: 34 seconds
+
+2019-05-14 23:41:23 | DEBUG | Base_Logging | conditional_write | Unable to get product id on Style Element in top wear page
+2019-05-14 23:41:23 | DEBUG | Base_Logging | conditional_write | Unable to find client id in top wear page
+2019-05-14 23:41:27 | DEBUG | Base_Logging | conditional_write | Unable to find recommended names in top wear page - carousel
+2019-05-14 23:41:27 | INFO | Base_Logging | log_result | PASS: Verified the products names coming in the request are correctly populated in the carousel
+2019-05-14 23:41:27 | INFO | Base_Logging | ui_top_wear_page | Script duration: 40 seconds
+
+2019-05-14 23:41:28 | DEBUG | Base_Logging | conditional_write | Unable to find recommended prices in top wear page - carousel
+2019-05-14 23:41:28 | INFO | Base_Logging | log_result | PASS: Verified the products prices coming in the request are correctly populated in the carousel
+2019-05-14 23:41:28 | INFO | Base_Logging | ui_top_wear_page | Script duration: 41 seconds
+
+2019-05-14 23:41:28 | DEBUG | Base_Logging | conditional_write | Unable to find links in top wear page - carousel
+2019-05-14 23:41:29 | INFO | Base_Logging | log_result | PASS: Verified the products links coming in the request are correctly populated in the carousel
+2019-05-14 23:41:29 | INFO | Base_Logging | ui_top_wear_page | Script duration: 42 seconds
+
+2019-05-14 23:41:33 | DEBUG | Base_Logging | conditional_write | Found links in top wear page - carousel
+2019-05-14 23:41:36 | DEBUG | Base_Logging | conditional_write | Unable to find recommended names in top wear page - carousel
+2019-05-14 23:41:37 | INFO | Base_Logging | log_result | PASS: Verified the products Names coming in the request are correctly populated in the carousel
+2019-05-14 23:41:37 | INFO | Base_Logging | ui_top_wear_page | Script duration: 50 seconds
+
+2019-05-14 23:41:37 | DEBUG | Base_Logging | conditional_write | Unable to find recommended prices in top wear page - carousel
+2019-05-14 23:41:37 | INFO | Base_Logging | log_result | PASS: Verified the products prices coming in the request are correctly populated in the carousel
+2019-05-14 23:41:37 | INFO | Base_Logging | ui_top_wear_page | Script duration: 50 seconds
+
+2019-05-14 23:41:37 | DEBUG | Base_Logging | conditional_write | Unable to find links in top wear page - carousel
+2019-05-14 23:41:38 | INFO | Base_Logging | log_result | PASS: Verified the product's link coming in the request are correctly populated in the carousel
+2019-05-14 23:41:38 | INFO | Base_Logging | ui_top_wear_page | Script duration: 51 seconds
+
+2019-05-14 23:41:42 | DEBUG | Base_Logging | conditional_write | Clicked on productlinks in top wear page - carousel
+2019-05-14 23:41:44 | DEBUG | Base_Logging | conditional_write | Automation switched to the browser window: None
+2019-05-14 23:41:44 | INFO | Base_Logging | log_result | PASS: Verified after clicking on the recommended product populated in the carousel
+2019-05-14 23:41:44 | INFO | Base_Logging | ui_top_wear_page | Script duration: 57 seconds
+
+2019-05-14 23:41:46 | INFO | Base_Logging | write_test_summary | 
+
+************************
+--------RESULT--------
+Total number of checks=12
+2019-05-14 23:41:46 | INFO | Base_Logging | write_test_summary | Total number of checks passed=12
+----------------------
+************************
+
+
+2019-05-14 23:41:46 | INFO | Base_Logging | write_test_summary | Total number of mini-checks=14
+2019-05-14 23:41:46 | INFO | Base_Logging | write_test_summary | Total number of mini-checks passed=5
+2019-05-14 23:41:46 | INFO | Base_Logging | write_test_summary | ************************
